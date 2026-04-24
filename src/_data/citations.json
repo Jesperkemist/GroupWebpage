@@ -1,0 +1,1859 @@
+{
+  "highlights":[
+    {
+      "doi": "10.1038/s41560-021-00941-3",
+      "title": "An open-access database and analysis tool for perovskite solar cells based on the FAIR data principles",
+      "publication_year": 2021,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Adam Hultqvist",
+        "Alberto García-Fernández",
+        "Aman Anand",
+        "Amran Al-Ashouri",
+        "Anders Hagfeldt",
+        "Andrea Crovetto",
+        "Antonio Abate",
+        "Antonio Gaetano Ricciardulli",
+        "Anuja Vijayan",
+        "Ashish Kulkarni",
+        "Assaf Y. Anderson",
+        "Barbara Primera Darwich",
+        "Bowen Yang",
+        "Brendan L. Coles",
+        "Carlo A. R. Perini",
+        "Carolin Rehermann",
+        "Daniel Ramirez",
+        "David Fairen-Jimenez",
+        "Diego Di Girolamo",
+        "Donglin Jia",
+        "Elena Avila",
+        "Emilio J. Juarez-Perez",
+        "Fanny Baumann",
+        "Florian Mathies",
+        "G. S. Anaya González",
+        "Gerrit Boschloo",
+        "Giuseppe Nasti",
+        "Gopinath Paramasivam",
+        "Guillermo Martínez-Denegri",
+        "Hampus Näsström",
+        "Hannes Michaels",
+        "Hans Köbler",
+        "Hua Wu",
+        "Iacopo Benesperi",
+        "M. Ibrahim Dar",
+        "Ilknur Bayrak Pehlivan",
+        "Isaac E. Gould",
+        "Jacob N. Vagott",
+        "Janardan Dagar",
+        "Jeff Kettle",
+        "Jie Yang",
+        "Jinzhao Li",
+        "Joel A. Smith",
+        "Jorge Pascual",
+        "Jose J. Jerónimo-Rendón",
+        "Juan Felipe Montoya",
+        "Juan-Pablo Correa-Baena",
+        "Junming Qiu",
+        "Junxin Wang",
+        "Kári Sveinbjörnsson",
+        "Katrin Hirselandt",
+        "Krishanu Dey",
+        "Kyle Frohna",
+        "Lena Mathies",
+        "Luigi A. Castriotta",
+        "Mahmoud. H. Aldamasy",
+        "Manuel Vasquez-Montoya",
+        "Marco A. Ruiz-Preciado",
+        "Marion A. Flatken",
+        "Mark V. Khenkin",
+        "Max Grischek",
+        "Mayank Kedia",
+        "Michael Saliba",
+        "Miguel Anaya",
+        "Misha Veldhoen",
+        "Neha Arora",
+        "Oleksandra Shargaieva",
+        "Oliver Maus",
+        "Onkar S. Game",
+        "Ori Yudilevich",
+        "Paul Fassl",
+        "Qisen Zhou",
+        "Rafael Betancur",
+        "Rahim Munir",
+        "Rahul Patidar",
+        "Samuel D. Stranks",
+        "Shahidul Alam",
+        "Shaoni Kar",
+        "Thomas Unold",
+        "Tobias Abzieher",
+        "Tomas Edvinsson",
+        "Tudur Wyn David",
+        "Ulrich W. Paetzold",
+        "Waqas Zia",
+        "Weifei Fu",
+        "Weiwei Zuo",
+        "Vincent R. F. Schröder",
+        "Wolfgang Tress",
+        "Xiaoliang Zhang",
+        "Yu-Hsien Chiang",
+        "Zafar Iqbal",
+        "Zhiqiang Xie",
+        "Eva Unger"
+      ],
+      "journal": "Nature Energy",
+      "issue": "1",
+      "volume": "7",
+      "page": "107-115",
+      "url": "https://doi.org/10.1038/s41560-021-00941-3",
+      "tags": [
+        "FAIR_data",
+        "Perovskites",
+        "Highlights"
+      ]
+    }
+  ],
+
+  "AI_for_material_science":[
+
+  ],
+
+  "Book_chapters":[
+    {
+      "doi": "10.1016/B978-0-12-814727-6.00008-6",
+      "title": "Temperature effects in lead halide perovskites",
+      "publication_year": 2020,
+      "authors": [
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Characterization Techniques for Perovskite Solar Cell Materials",
+      "issue": null,
+      "volume": null,
+      "page": "181-196",
+      "url": "https://doi.org/10.1016/b978-0-12-814727-6.00008-6"
+    }
+  ],
+
+  "FAIR_data":[
+
+  ],
+
+  "Perovskites":[
+
+  ],
+
+  "Perspectives":[
+
+  ],
+
+  "ZnO":[
+
+  ],
+
+  "hydrogen":[
+
+  ],
+
+
+  
+  "all":[
+    {
+      "doi": "10.48550/arXiv.2601.17807",
+      "title": "An autonomous living database for perovskite photovoltaics",
+      "publication_year": 2026,
+      "authors": [
+        "S. Shabih",
+        "H. Näsström",
+        "S. Patil",
+        "A. Askin",
+        "K. Dodd-Clements",
+        "J. H. H. Rossato",
+        "H. Gajardoni de Lemos",
+        "Y. Liu",
+        "F. Mathies",
+        "N. Maticiuc",
+        "R. Meitzner",
+        "E. Nandayapa",
+        "J. J. P. López",
+        "Y. Wang",
+        "L. Himanen",
+        "E. Unger",
+        "T. Jesper Jacobsson",
+        "J. A. Márquez",
+        "K. M. Jablonka."
+      ],
+      "journal": "ArXiv",
+      "issue": null,
+      "volume": null,
+      "page": null,
+      "url": "https://doi.org/10.48550/arXiv.2601.17807",
+      "tags": [
+        "AI_for_material_science",
+        "FAIR_data",
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aisy.202501149",
+      "title": "Bayesian Optimisation for the Experimental Sciences: A Practical Guide to Data‐Efficient Optimisation of Laboratory Workflows",
+      "publication_year": 2026,
+      "authors": [
+        "Chuan He",
+        "Martin Singull",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Advanced Intelligent Systems",
+      "issue": null,
+      "volume": null,
+      "page": null,
+      "url": "https://doi.org/10.1002/aisy.202501149",
+      "tags": [
+        "AI_for_material_science",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.jcim.5c02017",
+      "title": "Density Estimation Based on Mixtures of Gaussians for Perovskite Solar Cells Modeling",
+      "publication_year": 2026,
+      "authors": [
+        "F. Alexander Sepúlveda",
+        "Daniel Cerro-Ramos",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Journal of Chemical Information and Modeling",
+      "issue": "3",
+      "volume": "66",
+      "page": "1371-1383",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02017",
+      "tags":[
+        "AI_for_material_science",
+        "Perovskites"
+        ]
+    },
+    {
+      "doi": "10.1002/aenm.202505525",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 6)",
+      "publication_year": 2025,
+      "authors": [
+        "Osbel Almora",
+        "Agustin O. Alvarez",
+        "Derya Baran",
+        "Carlos I. Cabrera",
+        "Luigi A. Castriotta",
+        "Bruno Ehrler",
+        "Sule Erten‐Ela",
+        "Kenjiro Fukuda",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W.Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A. J. Janssen",
+        "Thomas Kirchartz",
+        "Maria A. Loi",
+        "Richard R. Lunt",
+        "Xavier Mathew",
+        "Jie Min",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Ana F. Nogueira",
+        "Ulrich W. Paetzold",
+        "Nam‐Gyu Park",
+        "Barry P. Rand",
+        "Henry Snaith",
+        "Takao Someya",
+        "Christian Sprau",
+        "Lulu Sun",
+        "Karen Forberich",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "7",
+      "volume": "16",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202505525",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+    {
+      "doi": "10.1039/D5EL00163C",
+      "title": "Tackling the reproducibility gap in perovskite research: a vision for FAIR data and standardised protocols",
+      "publication_year": 2026,
+      "authors": [
+        "Eva Unger",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "EES Solar",
+      "issue": "1",
+      "volume": "2",
+      "page": "88-91",
+      "url": "https://doi.org/10.1039/d5el00163c",
+      "tags":[
+        "FAIR_data",
+        "Perovskites",
+        "Perspective"
+      ]
+    },
+
+    {
+      "doi": "10.1038/s41467-025-64325-x",
+      "title": "Towards an interoperable perovskite description or how to keep track of 300 perovskite ions",
+      "publication_year": 2025,
+      "authors": [
+        "Ayman Maqsood",
+        "Hampus Näsström",
+        "Chen Chen",
+        "Li Qiutong",
+        "Jingshan Luo",
+        "Rayan Chakraborty",
+        "Volker Blum",
+        "Eva Unger",
+        "Claudia Draxl",
+        "José A. Márquez",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Nature Communications",
+      "issue": "1",
+      "volume": "16",
+      "page": null,
+      "url": "https://doi.org/10.1038/s41467-025-64325-x",
+      "tags":[
+        "FAIR_data",
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.jechem.2025.02.006",
+      "title": "Spatial PbI2 distribution impacting stability of perovskite solar cells",
+      "publication_year": 2025,
+      "authors": [
+        "Huanhuan Wang",
+        "Zaiwei Wang",
+        "Zihan Qu",
+        "Zhuang Zhang",
+        "Ke Meng",
+        "Gang Chen",
+        "T. Jesper Jacobsson",
+        "Jingbi You",
+        "Jingshan Luo"
+      ],
+      "journal": "Journal of Energy Chemistry",
+      "issue": null,
+      "volume": "105",
+      "page": "446-453",
+      "url": "https://doi.org/10.1016/j.jechem.2025.02.006",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202404386",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 5)",
+      "publication_year": 2024,
+      "authors": [
+        "Osbel Almora",
+        "Guillermo C. Bazan",
+        "Carlos I. Cabrera",
+        "Luigi A. Castriotta",
+        "Sule Erten‐Ela",
+        "Karen Forberich",
+        "Kenjiro Fukuda",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W.Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A.J. Janssen",
+        "Thomas Kirchartz",
+        "Richard R. Lunt",
+        "Xavier Mathew",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Jenny Nelson",
+        "Ana F. Nogueira",
+        "Ulrich. W. Paetzold",
+        "Barry P. Rand",
+        "Uwe Rau",
+        "Takao Someya",
+        "Christian Sprau",
+        "Lídice Vaillant‐Roca",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "12",
+      "volume": "15",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202404386",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.xcrp.2024.102058",
+      "title": "The use of ChatGPT to generate experimentally testable hypotheses for improving the surface passivation of perovskite solar cells",
+      "publication_year": 2024,
+      "authors": [
+        "Chen Chen",
+        "Ayman Maqsood",
+        "Zhuang Zhang",
+        "Xiaobing Wang",
+        "Linrui Duan",
+        "Huanhuan Wang",
+        "Tianyang Chen",
+        "Siyu Liu",
+        "Qiutong Li",
+        "Jingshan Luo",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Cell Reports Physical Science",
+      "issue": "7",
+      "volume": "5",
+      "page": "102058",
+      "url": "https://doi.org/10.1016/j.xcrp.2024.102058",
+      "tags":[
+        "AI_for_material_science",
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1002/advs.202401401",
+      "title": "The Future of Material Scientists in an Age of Artificial Intelligence",
+      "publication_year": 2024,
+      "authors": [
+        "Ayman Maqsood",
+        "Chen Chen",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Advanced Science",
+      "issue": "19",
+      "volume": "11",
+      "page": null,
+      "url": "https://doi.org/10.1002/advs.202401401",
+      "tags":[
+        "AI_for_material_science",
+        "Perspective"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.solener.2024.112458",
+      "title": "Modelling iodine diffusion in 2D-Perovskites as a function of the length of the organic spacer molecules",
+      "publication_year": 2024,
+      "authors": [
+        "Roghayeh Imani",
+        "Abbas Ghasempour Ardakani",
+        "Mahmoud Moradi",
+        "T. Jesper Jacobsson",
+        "Meysam Pazoki"
+      ],
+      "journal": "Solar Energy",
+      "issue": null,
+      "volume": "272",
+      "page": "112458",
+      "url": "https://doi.org/10.1016/j.solener.2024.112458",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/D3TA05966A",
+      "title": "Application of large datasets to assess trends in the stability of perovskite photovoltaics through machine learning",
+      "publication_year": 2024,
+      "authors": [
+        "Bashayer Nafe N. Alsulami",
+        "Tudur Wyn David",
+        "A. Essien",
+        "Samrana Kazim",
+        "Shahzada Ahmad",
+        "T. Jesper Jacobsson",
+        "Andrew Feeney",
+        "Jeff Kettle"
+      ],
+      "journal": "Journal of Materials Chemistry A",
+      "issue": "5",
+      "volume": "12",
+      "page": "3122-3132",
+      "url": "https://doi.org/10.1039/d3ta05966a",
+      "tags":[
+        "Perovskites",
+        "AI for material science"
+      ]
+    },
+
+    {
+      "doi": "10.1002/adma.202309351",
+      "title": "Data‐Driven Tunnel Oxide Passivated Contact Solar Cell Performance Analysis Using Machine Learning",
+      "publication_year": 2024,
+      "authors": [
+        "Jiakai Zhou",
+        "T. Jesper Jacobsson",
+        "Zhi Wang",
+        "Qian Huang",
+        "Xiaodan Zhang",
+        "Ying Zhao",
+        "Guofu Hou"
+      ],
+      "journal": "Advanced Materials",
+      "issue": "14",
+      "volume": "36",
+      "page": null,
+      "url": "https://doi.org/10.1002/adma.202309351",
+      "tags":[
+        "AI_for_material_science",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202303420",
+      "title": "Rationalizing Performance Losses of Wide Bandgap Perovskite Solar Cells Evident in Data from the <i>Perovskite Database</i>",
+      "publication_year": 2023,
+      "authors": [
+        "Klara Suchan",
+        "T. Jesper Jacobsson",
+        "Carolin Rehermann",
+        "Eva L. Unger",
+        "Thomas Kirchartz",
+        "Christian M. Wolff"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "5",
+      "volume": "14",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202303420",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202303173",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 4)",
+      "publication_year": 2023,
+      "authors": [
+        "Osbel Almora",
+        "Carlos I. Cabrera",
+        "Sule Erten‐Ela",
+        "Karen Forberich",
+        "Kenjiro Fukuda",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W. Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A. J. Janssen",
+        "Thomas Kirchartz",
+        "Maria A. Loi",
+        "Xavier Mathew",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Ulrich W. Paetzold",
+        "Barry P. Rand",
+        "Uwe Rau",
+        "Takao Someya",
+        "Eva Unger",
+        "Lídice Vaillant‐Roca",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "4",
+      "volume": "14",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202303173",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1038/s41467-023-41263-0",
+      "title": "A systematic discrepancy between the short circuit current and the integrated quantum efficiency in perovskite solar cells",
+      "publication_year": 2023,
+      "authors": [
+        "Michael Saliba",
+        "Eva Unger",
+        "Lioz Etgar",
+        "Jingshan Luo",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Nature Communications",
+      "issue": "1",
+      "volume": "14",
+      "page": null,
+      "url": "https://doi.org/10.1038/s41467-023-41263-0",
+      "tags":[
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.jallcom.2023.170824",
+      "title": "The role of machine learning in perovskite solar cell research",
+      "publication_year": 2023,
+      "authors": [
+        "Chen Chen",
+        "Ayman Maqsood",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Journal of Alloys and Compounds",
+      "issue": null,
+      "volume": "960",
+      "page": "170824",
+      "url": "https://doi.org/10.1016/j.jallcom.2023.170824",
+      "tags":[
+        "AI_for_material_science",
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.3389/fenrg.2023.1118654",
+      "title": "The challenge of studying perovskite solar cells’ stability with machine learning",
+      "publication_year": 2023,
+      "authors": [
+        "Paolo Graniero",
+        "Mark Khenkin",
+        "Hans Köbler",
+        "Noor Titan Putri Hartono",
+        "Rutger Schlatmann",
+        "Antonio Abate",
+        "Eva Unger",
+        "T. Jesper Jacobsson",
+        "Carolin Ulbrich"
+      ],
+      "journal": "Frontiers in Energy Research",
+      "issue": null,
+      "volume": "11",
+      "page": null,
+      "url": "https://doi.org/10.3389/fenrg.2023.1118654",
+      "tags":[
+        "AI_for_material_science",
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsami.2c17527",
+      "title": "Direct Measurements of Interfacial Photovoltage and Band Alignment in Perovskite Solar Cells Using Hard X-ray Photoelectron Spectroscopy",
+      "publication_year": 2023,
+      "authors": [
+        "Sebastian Svanström",
+        "Alberto García Fernández",
+        "Tamara Sloboda",
+        "T. Jesper Jacobsson",
+        "Fuguo Zhang",
+        "Fredrik O. L. Johansson",
+        "Danilo Kühn",
+        "Denis Céolin",
+        "Jean-Pascal Rueff",
+        "Licheng Sun",
+        "Kerttu Aitola",
+        "Håkan Rensmo",
+        "Ute B. Cappel"
+      ],
+      "journal": "ACS Applied Materials &amp; Interfaces",
+      "issue": "9",
+      "volume": "15",
+      "page": "12485-12494",
+      "url": "https://doi.org/10.1021/acsami.2c17527",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/solr.202300022",
+      "title": "Cs<sub>1−<i>x</i></sub>DMA<sub><i>x</i></sub>PbI<sub>3</sub>versus CsPbI<sub>3</sub>for Perovskite Solar Cells",
+      "publication_year": 2023,
+      "authors": [
+        "Mengqi Liu",
+        "Linrui Duan",
+        "T. Jesper Jacobsson",
+        "Jingshan Luo"
+      ],
+      "journal": "Solar RRL",
+      "issue": "7",
+      "volume": "7",
+      "page": null,
+      "url": "https://doi.org/10.1002/solr.202300022",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202203313",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 3)",
+      "publication_year": 2022,
+      "authors": [
+        "Osbel Almora",
+        "Derya Baran",
+        "Guillermo C. Bazan",
+        "Carlos I. Cabrera",
+        "Sule Erten‐Ela",
+        "Karen Forberich",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W. Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A. J. Janssen",
+        "Thomas Kirchartz",
+        "Nikos Kopidakis",
+        "Maria A. Loi",
+        "Richard R. Lunt",
+        "Xavier Mathew",
+        "Michael D. McGehee",
+        "Jie Min",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Jenny Nelson",
+        "Ana F. Nogueira",
+        "Ulrich W. Paetzold",
+        "Barry P. Rand",
+        "Uwe Rau",
+        "Henry J. Snaith",
+        "Eva Unger",
+        "Lídice Vaillant‐Roca",
+        "Chenchen Yang",
+        "Hin‐Lap Yip",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "1",
+      "volume": "13",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202203313",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1038/s41467-022-35400-4",
+      "title": "Big data driven perovskite solar cell stability analysis",
+      "publication_year": 2022,
+      "authors": [
+        "Zhuang Zhang",
+        "Huanhuan Wang",
+        "T. Jesper Jacobsson",
+        "Jingshan Luo"
+      ],
+      "journal": "Nature Communications",
+      "issue": "1",
+      "volume": "13",
+      "page": null,
+      "url": "https://doi.org/10.1038/s41467-022-35400-4",
+      "tags":[
+        "Perovskites",
+        "AI_for_material_science",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1039/D2YA00261B",
+      "title": "Perovskite device efficiency is a poor predictor for the number of citations a paper will get",
+      "publication_year": 2022,
+      "authors": [
+        "Ayman Maqsood",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Energy Advances",
+      "issue": "12",
+      "volume": "1",
+      "page": "1035-1040",
+      "url": "https://doi.org/10.1039/d2ya00261b",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/pip.3577",
+      "title": "Review of technology specific degradation in crystalline silicon, cadmium telluride, copper indium gallium selenide, dye sensitised, organic and perovskite solar cells in photovoltaic modules: Understanding how reliability improvements in mature technologies can enhance emerging technologies",
+      "publication_year": 2022,
+      "authors": [
+        "Jeff Kettle",
+        "Mohammadreza Aghaei",
+        "Shahzada Ahmad",
+        "Andrew Fairbrother",
+        "Stuart Irvine",
+        "Jesper J. Jacobsson",
+        "Samrana Kazim",
+        "Vaidotas Kazukauskas",
+        "Dan Lamb",
+        "Killian Lobato",
+        "Georgios A. Mousdis",
+        "Gernot Oreski",
+        "Angele Reinders",
+        "Jurriaan Schmitz",
+        "Pelin Yilmaz",
+        "Mirjam J. Theelen"
+      ],
+      "journal": "Progress in Photovoltaics: Research and Applications",
+      "issue": "12",
+      "volume": "30",
+      "page": "1365-1392",
+      "url": "https://doi.org/10.1002/pip.3577",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsenergylett.2c00330",
+      "title": "The Perovskite Database Project: A Perspective on Collective Data Sharing",
+      "publication_year": 2022,
+      "authors": [
+        "Eva Unger",
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "ACS Energy Letters",
+      "issue": "3",
+      "volume": "7",
+      "page": "1240-1245",
+      "url": "https://doi.org/10.1021/acsenergylett.2c00330",
+      "tags":[
+        "FAIR_data",
+        "Perovskites",
+        "Perspective",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsmaterialsau.1c00038",
+      "title": "The Complex Degradation Mechanism of Copper Electrodes on Lead Halide Perovskites",
+      "publication_year": 2022,
+      "authors": [
+        "Sebastian Svanström",
+        "Alberto García-Fernández",
+        "T. Jesper Jacobsson",
+        "Ieva Bidermane",
+        "Torsten Leitner",
+        "Tamara Sloboda",
+        "Gabriel J. Man",
+        "Gerrit Boschloo",
+        "Erik M. J. Johansson",
+        "Håkan Rensmo",
+        "Ute B. Cappel"
+      ],
+      "journal": "ACS Materials Au",
+      "issue": "3",
+      "volume": "2",
+      "page": "301-312",
+      "url": "https://doi.org/10.1021/acsmaterialsau.1c00038",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1038/s41560-021-00941-3",
+      "title": "An open-access database and analysis tool for perovskite solar cells based on the FAIR data principles",
+      "publication_year": 2021,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Adam Hultqvist",
+        "Alberto García-Fernández",
+        "Aman Anand",
+        "Amran Al-Ashouri",
+        "Anders Hagfeldt",
+        "Andrea Crovetto",
+        "Antonio Abate",
+        "Antonio Gaetano Ricciardulli",
+        "Anuja Vijayan",
+        "Ashish Kulkarni",
+        "Assaf Y. Anderson",
+        "Barbara Primera Darwich",
+        "Bowen Yang",
+        "Brendan L. Coles",
+        "Carlo A. R. Perini",
+        "Carolin Rehermann",
+        "Daniel Ramirez",
+        "David Fairen-Jimenez",
+        "Diego Di Girolamo",
+        "Donglin Jia",
+        "Elena Avila",
+        "Emilio J. Juarez-Perez",
+        "Fanny Baumann",
+        "Florian Mathies",
+        "G. S. Anaya González",
+        "Gerrit Boschloo",
+        "Giuseppe Nasti",
+        "Gopinath Paramasivam",
+        "Guillermo Martínez-Denegri",
+        "Hampus Näsström",
+        "Hannes Michaels",
+        "Hans Köbler",
+        "Hua Wu",
+        "Iacopo Benesperi",
+        "M. Ibrahim Dar",
+        "Ilknur Bayrak Pehlivan",
+        "Isaac E. Gould",
+        "Jacob N. Vagott",
+        "Janardan Dagar",
+        "Jeff Kettle",
+        "Jie Yang",
+        "Jinzhao Li",
+        "Joel A. Smith",
+        "Jorge Pascual",
+        "Jose J. Jerónimo-Rendón",
+        "Juan Felipe Montoya",
+        "Juan-Pablo Correa-Baena",
+        "Junming Qiu",
+        "Junxin Wang",
+        "Kári Sveinbjörnsson",
+        "Katrin Hirselandt",
+        "Krishanu Dey",
+        "Kyle Frohna",
+        "Lena Mathies",
+        "Luigi A. Castriotta",
+        "Mahmoud. H. Aldamasy",
+        "Manuel Vasquez-Montoya",
+        "Marco A. Ruiz-Preciado",
+        "Marion A. Flatken",
+        "Mark V. Khenkin",
+        "Max Grischek",
+        "Mayank Kedia",
+        "Michael Saliba",
+        "Miguel Anaya",
+        "Misha Veldhoen",
+        "Neha Arora",
+        "Oleksandra Shargaieva",
+        "Oliver Maus",
+        "Onkar S. Game",
+        "Ori Yudilevich",
+        "Paul Fassl",
+        "Qisen Zhou",
+        "Rafael Betancur",
+        "Rahim Munir",
+        "Rahul Patidar",
+        "Samuel D. Stranks",
+        "Shahidul Alam",
+        "Shaoni Kar",
+        "Thomas Unold",
+        "Tobias Abzieher",
+        "Tomas Edvinsson",
+        "Tudur Wyn David",
+        "Ulrich W. Paetzold",
+        "Waqas Zia",
+        "Weifei Fu",
+        "Weiwei Zuo",
+        "Vincent R. F. Schröder",
+        "Wolfgang Tress",
+        "Xiaoliang Zhang",
+        "Yu-Hsien Chiang",
+        "Zafar Iqbal",
+        "Zhiqiang Xie",
+        "Eva Unger"
+      ],
+      "journal": "Nature Energy",
+      "issue": "1",
+      "volume": "7",
+      "page": "107-115",
+      "url": "https://doi.org/10.1038/s41560-021-00941-3",
+      "tags":[
+        "FAIR_data",
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202102526",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 2)",
+      "publication_year": 2021,
+      "authors": [
+        "Osbel Almora",
+        "Derya Baran",
+        "Guillermo C. Bazan",
+        "Christian Berger",
+        "Carlos I. Cabrera",
+        "Kylie R. Catchpole",
+        "Sule Erten‐Ela",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W. Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A. J. Janssen",
+        "Thomas Kirchartz",
+        "Nikos Kopidakis",
+        "Yongfang Li",
+        "Maria A. Loi",
+        "Richard R. Lunt",
+        "Xavier Mathew",
+        "Michael D. McGehee",
+        "Jie Min",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Jenny Nelson",
+        "Ana F. Nogueira",
+        "Ulrich W. Paetzold",
+        "Nam‐Gyu Park",
+        "Barry P. Rand",
+        "Uwe Rau",
+        "Henry J. Snaith",
+        "Eva Unger",
+        "Lídice Vaillant‐Roca",
+        "Hin‐Lap Yip",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "48",
+      "volume": "11",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202102526",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsaem.0c02405",
+      "title": "SnO<sub><i>x</i></sub> Atomic Layer Deposition on Bare Perovskite—An Investigation of Initial Growth Dynamics, Interface Chemistry, and Solar Cell Performance",
+      "publication_year": 2021,
+      "authors": [
+        "Adam Hultqvist",
+        "T. Jesper Jacobsson",
+        "Sebastian Svanström",
+        "Marika Edoff",
+        "Ute B. Cappel",
+        "Håkan Rensmo",
+        "Erik M. J. Johansson",
+        "Gerrit Boschloo",
+        "Tobias Törndahl"
+      ],
+      "journal": "ACS Applied Energy Materials",
+      "issue": "1",
+      "volume": "4",
+      "page": "510-522",
+      "url": "https://doi.org/10.1021/acsaem.0c02405",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/D1CP01443A",
+      "title": "X-ray stability and degradation mechanism of lead halide perovskites and lead halides",
+      "publication_year": 2021,
+      "authors": [
+        "Sebastian Svanström",
+        "Alberto García Fernández",
+        "Tamara Sloboda",
+        "T. Jesper Jacobsson",
+        "Håkan Rensmo",
+        "Ute B. Cappel"
+      ],
+      "journal": "Physical Chemistry Chemical Physics",
+      "issue": "21",
+      "volume": "23",
+      "page": "12479-12489",
+      "url": "https://doi.org/10.1039/d1cp01443a",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/aenm.202002774",
+      "title": "Device Performance of Emerging Photovoltaic Materials (Version 1)",
+      "publication_year": 2020,
+      "authors": [
+        "Osbel Almora",
+        "Derya Baran",
+        "Guillermo C. Bazan",
+        "Christian Berger",
+        "Carlos I. Cabrera",
+        "Kylie R. Catchpole",
+        "Sule Erten‐Ela",
+        "Fei Guo",
+        "Jens Hauch",
+        "Anita W. Y. Ho‐Baillie",
+        "T. Jesper Jacobsson",
+        "Rene A. J. Janssen",
+        "Thomas Kirchartz",
+        "Nikos Kopidakis",
+        "Yongfang Li",
+        "Maria A. Loi",
+        "Richard R. Lunt",
+        "Xavier Mathew",
+        "Michael D. McGehee",
+        "Jie Min",
+        "David B. Mitzi",
+        "Mohammad K. Nazeeruddin",
+        "Jenny Nelson",
+        "Ana F. Nogueira",
+        "Ulrich W. Paetzold",
+        "Nam‐Gyu Park",
+        "Barry P. Rand",
+        "Uwe Rau",
+        "Henry J. Snaith",
+        "Eva Unger",
+        "Lídice Vaillant‐Roca",
+        "Hin‐Lap Yip",
+        "Christoph J. Brabec"
+      ],
+      "journal": "Advanced Energy Materials",
+      "issue": "11",
+      "volume": "11",
+      "page": null,
+      "url": "https://doi.org/10.1002/aenm.202002774",
+      "tags":[
+        "Perovskites",
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.nanoen.2020.105342",
+      "title": "Enhancing the stability of organic photovoltaics through machine learning",
+      "publication_year": 2020,
+      "authors": [
+        "Tudur Wyn David",
+        "Helder Anizelli",
+        "T. Jesper Jacobsson",
+        "Cameron Gray",
+        "William Teahan",
+        "Jeff Kettle"
+      ],
+      "journal": "Nano Energy",
+      "issue": null,
+      "volume": "78",
+      "page": "105342",
+      "url": "https://doi.org/10.1016/j.nanoen.2020.105342",
+      "tags":[
+        "AI_for_material_science"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.solener.2020.06.034",
+      "title": "2-Terminal CIGS-perovskite tandem cells: A layer by layer exploration",
+      "publication_year": 2020,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Adam Hultqvist",
+        "Sebastian Svanström",
+        "Lars Riekehr",
+        "Ute B. Cappel",
+        "Eva Unger",
+        "Håkan Rensmo",
+        "Erik M.J. Johansson",
+        "Marika Edoff",
+        "Gerrit Boschloo"
+      ],
+      "journal": "Solar Energy",
+      "issue": null,
+      "volume": "207",
+      "page": "270-288",
+      "url": "https://doi.org/10.1016/j.solener.2020.06.034",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsami.9b20315",
+      "title": "Degradation Mechanism of Silver Metal Deposited on Lead Halide Perovskites",
+      "publication_year": 2020,
+      "authors": [
+        "Sebastian Svanström",
+        "T. Jesper Jacobsson",
+        "Gerrit Boschloo",
+        "Erik M. J. Johansson",
+        "Håkan Rensmo",
+        "Ute B. Cappel"
+      ],
+      "journal": "ACS Applied Materials &amp; Interfaces",
+      "issue": "6",
+      "volume": "12",
+      "page": "7212-7221",
+      "url": "https://doi.org/10.1021/acsami.9b20315",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C8TA05795H",
+      "title": "Effect of halide ratio and Cs<sup>+</sup> addition on the photochemical stability of lead halide perovskites",
+      "publication_year": 2018,
+      "authors": [
+        "Sebastian Svanström",
+        "T. Jesper Jacobsson",
+        "Tamara Sloboda",
+        "Erika Giangrisostomi",
+        "Ruslan Ovsyannikov",
+        "Håkan Rensmo",
+        "Ute B. Cappel"
+      ],
+      "journal": "Journal of Materials Chemistry A",
+      "issue": "44",
+      "volume": "6",
+      "page": "22134-22144",
+      "url": "https://doi.org/10.1039/c8ta05795h",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C8EE00772A",
+      "title": "Photoelectrochemical water splitting: an idea heading towards obsolescence?",
+      "publication_year": 2018,
+      "authors": [
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "8",
+      "volume": "11",
+      "page": "1977-1979",
+      "url": "https://doi.org/10.1039/c8ee00772a",
+      "tags":[
+        "Hydrogen_production",
+        "Perspective",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.jpcc.7b12464",
+      "title": "Extending the Compositional Space of Mixed Lead Halide Perovskites by Cs, Rb, K, and Na Doping",
+      "publication_year": 2018,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Sebastian Svanström",
+        "Virgil Andrei",
+        "Jasmine P. H. Rivett",
+        "Nikolay Kornienko",
+        "Bertrand Philippe",
+        "Ute B. Cappel",
+        "Håkan Rensmo",
+        "Felix Deschler",
+        "Gerrit Boschloo"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "25",
+      "volume": "122",
+      "page": "13548-13557",
+      "url": "https://doi.org/10.1021/acs.jpcc.7b12464",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.jpcc.7b06775",
+      "title": "Photon Energy-Dependent Hysteresis Effects in Lead Halide Perovskite Materials",
+      "publication_year": 2017,
+      "authors": [
+        "Meysam Pazoki",
+        "T. Jesper Jacobsson",
+        "Silver H. T. Cruz",
+        "Malin B. Johansson",
+        "Roghayeh Imani",
+        "Jolla Kullgren",
+        "Anders Hagfeldt",
+        "Erik M. J. Johansson",
+        "Tomas Edvinsson",
+        "Gerrit Boschloo"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "47",
+      "volume": "121",
+      "page": "26180-26187",
+      "url": "https://doi.org/10.1021/acs.jpcc.7b06775",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.jpcc.7b08948",
+      "title": "Valence Level Character in a Mixed Perovskite Material and Determination of the Valence Band Maximum from Photoelectron Spectroscopy: Variation with Photon Energy",
+      "publication_year": 2017,
+      "authors": [
+        "Bertrand Philippe",
+        "T. Jesper Jacobsson",
+        "Juan-Pablo Correa-Baena",
+        "Naresh K. Jena",
+        "Amitava Banerjee",
+        "Sudip Chakraborty",
+        "Ute B. Cappel",
+        "Rajeev Ahuja",
+        "Anders Hagfeldt",
+        "Michael Odelius",
+        "Håkan Rensmo"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "48",
+      "volume": "121",
+      "page": "26655-26666",
+      "url": "https://doi.org/10.1021/acs.jpcc.7b08948",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsnano.6b07916",
+      "title": "Photoinduced Stark Effects and Mechanism of Ion Displacement in Perovskite Solar Cell Materials",
+      "publication_year": 2017,
+      "authors": [
+        "Meysam Pazoki",
+        "T. Jesper Jacobsson",
+        "Jolla Kullgren",
+        "Erik M. J. Johansson",
+        "Anders Hagfeldt",
+        "Gerrit Boschloo",
+        "Tomas Edvinsson"
+      ],
+      "journal": "ACS Nano",
+      "issue": "3",
+      "volume": "11",
+      "page": "2823-2834",
+      "url": "https://doi.org/10.1021/acsnano.6b07916",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C6EE03397K",
+      "title": "The rapid evolution of highly efficient perovskite solar cells",
+      "publication_year": 2017,
+      "authors": [
+        "Juan-Pablo Correa-Baena",
+        "Antonio Abate",
+        "Michael Saliba",
+        "Wolfgang Tress",
+        "T. Jesper Jacobsson",
+        "Michael Grätzel",
+        "Anders Hagfeldt"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "3",
+      "volume": "10",
+      "page": "710-727",
+      "url": "https://doi.org/10.1039/c6ee03397k",
+      "tags":[
+        "Perovskites",
+        "Review",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1021/jacs.6b06320",
+      "title": "Unreacted PbI<sub>2</sub> as a Double-Edged Sword for Enhancing the Performance of Perovskite Solar Cells",
+      "publication_year": 2016,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Juan-Pablo Correa-Baena",
+        "Elham Halvani Anaraki",
+        "Bertrand Philippe",
+        "Samuel D. Stranks",
+        "Marine E. F. Bouduban",
+        "Wolfgang Tress",
+        "Kurt Schenk",
+        "Joël Teuscher",
+        "Jacques-E. Moser",
+        "Håkan Rensmo",
+        "Anders Hagfeldt"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "issue": "32",
+      "volume": "138",
+      "page": "10331-10343",
+      "url": "https://doi.org/10.1021/jacs.6b06320",
+      "tags":[
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpcc.6b02858",
+      "title": "Room Temperature as a Goldilocks Environment for CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite Solar Cells: The Importance of Temperature on Device Performance",
+      "publication_year": 2016,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Wolfgang Tress",
+        "Juan-Pablo Correa-Baena",
+        "Tomas Edvinsson",
+        "Anders Hagfeldt"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "21",
+      "volume": "120",
+      "page": "11382-11393",
+      "url": "https://doi.org/10.1021/acs.jpcc.6b02858",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1002/adma.201600624",
+      "title": "Unbroken Perovskite: Interplay of Morphology, Electro‐optical Properties, and Ionic Movement",
+      "publication_year": 2016,
+      "authors": [
+        "Juan‐Pablo Correa‐Baena",
+        "Miguel Anaya",
+        "Gabriel Lozano",
+        "Wolfgang Tress",
+        "Konrad Domanski",
+        "Michael Saliba",
+        "Taisuke Matsui",
+        "Tor Jesper Jacobsson",
+        "Mauricio E. Calvo",
+        "Antonio Abate",
+        "Michael Grätzel",
+        "Hernán Míguez",
+        "Anders Hagfeldt"
+      ],
+      "journal": "Advanced Materials",
+      "issue": "25",
+      "volume": "28",
+      "page": "5031-5037",
+      "url": "https://doi.org/10.1002/adma.201600624",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1103/PhysRevB.93.144105",
+      "title": "Effect of metal cation replacement on the electronic structure of metalorganic halide perovskites: Replacement of lead with alkaline-earth metals",
+      "publication_year": 2016,
+      "authors": [
+        "Meysam Pazoki",
+        "T. Jesper Jacobsson",
+        "Anders Hagfeldt",
+        "Gerrit Boschloo",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Physical Review B",
+      "issue": "14",
+      "volume": "93",
+      "page": null,
+      "url": "https://doi.org/10.1103/physrevb.93.144105",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.jpcc.6b01728",
+      "title": "Properties of Contact and Bulk Impedances in Hybrid Lead Halide Perovskite Solar Cells Including Inductive Loop Elements",
+      "publication_year": 2016,
+      "authors": [
+        "Antonio Guerrero",
+        "Germà Garcia-Belmonte",
+        "Ivan Mora-Sero",
+        "Juan Bisquert",
+        "Yong Soo Kang",
+        "T. Jesper Jacobsson",
+        "Juan-Pablo Correa-Baena",
+        "Anders Hagfeldt"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "15",
+      "volume": "120",
+      "page": "8023-8032",
+      "url": "https://doi.org/10.1021/acs.jpcc.6b01728",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C6EE00030D",
+      "title": "Exploration of the compositional space for mixed lead halogen perovskites for high efficiency solar cells",
+      "publication_year": 2016,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Juan-Pablo Correa-Baena",
+        "Meysam Pazoki",
+        "Michael Saliba",
+        "Kurt Schenk",
+        "Michael Grätzel",
+        "Anders Hagfeldt"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "5",
+      "volume": "9",
+      "page": "1706-1724",
+      "url": "https://doi.org/10.1039/c6ee00030d",
+      "tags":[
+        "Perovskites",
+        "Highlights"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpcc.5b06436",
+      "title": "Goldschmidt’s Rules and Strontium Replacement in Lead Halogen Perovskite Solar Cells: Theory and Preliminary Experiments on CH<sub>3</sub>NH<sub>3</sub>SrI<sub>3</sub>",
+      "publication_year": 2015,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Meysam Pazoki",
+        "Anders Hagfeldt",
+        "Tomas Edvinsson"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "46",
+      "volume": "119",
+      "page": "25673-25683",
+      "url": "https://doi.org/10.1021/acs.jpcc.5b06436",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.inorgchem.5b01481",
+      "title": "Determination of Thermal Expansion Coefficients and Locating the Temperature-Induced Phase Transition in Methylammonium Lead Perovskites Using X-ray Diffraction",
+      "publication_year": 2015,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "L. Josef Schwan",
+        "Mikael Ottosson",
+        "Anders Hagfeldt",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Inorganic Chemistry",
+      "issue": "22",
+      "volume": "54",
+      "page": "10678-10685",
+      "url": "https://doi.org/10.1021/acs.inorgchem.5b01481",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acs.langmuir.5b03376",
+      "title": "Phase Formation Behavior in Ultrathin Iron Oxide",
+      "publication_year": 2015,
+      "authors": [
+        "Indrek Jõgi",
+        "T. Jesper Jacobsson",
+        "Mattis Fondell",
+        "Timo Wätjen",
+        "Jan-Otto Carlsson",
+        "Mats Boman",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Langmuir",
+      "issue": "45",
+      "volume": "31",
+      "page": "12372-12381",
+      "url": "https://doi.org/10.1021/acs.langmuir.5b03376",
+      "tags":[
+        "Hydrogen_production"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C5EE02608C",
+      "title": "Highly efficient planar perovskite solar cells through band alignment engineering",
+      "publication_year": 2015,
+      "authors": [
+        "Juan Pablo Correa Baena",
+        "Ludmilla Steier",
+        "Wolfgang Tress",
+        "Michael Saliba",
+        "Stefanie Neutzner",
+        "Taisuke Matsui",
+        "Fabrizio Giordano",
+        "T. Jesper Jacobsson",
+        "Ajay Ram Srimath Kandada",
+        "Shaik M. Zakeeruddin",
+        "Annamaria Petrozza",
+        "Antonio Abate",
+        "Mohammad Khaja Nazeeruddin",
+        "Michael Grätzel",
+        "Anders Hagfeldt"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "10",
+      "volume": "8",
+      "page": "2928-2934",
+      "url": "https://doi.org/10.1039/c5ee02608c",
+      "tags":[
+        "Perovskites"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.solmat.2015.02.023",
+      "title": "A theoretical analysis of optical absorption limits and performance of tandem devices and series interconnected architectures for solar hydrogen production",
+      "publication_year": 2015,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Viktor Fjällström",
+        "Marika Edoff",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Solar Energy Materials and Solar Cells",
+      "issue": null,
+      "volume": "138",
+      "page": "86-95",
+      "url": "https://doi.org/10.1016/j.solmat.2015.02.023",
+      "tags":[
+        "Hydrogen_production"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.solmat.2014.11.041",
+      "title": "CIGS based devices for solar hydrogen production spanning from PEC-cells to PV-electrolyzers: A comparison of efficiency, stability and device topology",
+      "publication_year": 2015,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Viktor Fjällström",
+        "Marika Edoff",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Solar Energy Materials and Solar Cells",
+      "issue": null,
+      "volume": "134",
+      "page": "185-193",
+      "url": "https://doi.org/10.1016/j.solmat.2014.11.041",
+      "tags":[
+        "Hydrogen_production"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C4EE00754A",
+      "title": "Sustainable solar hydrogen production: from photoelectrochemical cells to PV-electrolyzers and back again",
+      "publication_year": 2014,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Viktor Fjällström",
+        "Marika Edoff",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "7",
+      "volume": "7",
+      "page": "2056-2070",
+      "url": "https://doi.org/10.1039/c4ee00754a",
+      "tags":[
+        "Hydrogen_production",
+        "Perspective",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1021/jp503098q",
+      "title": "Quantum Confined Stark Effects in ZnO Quantum Dots Investigated with Photoelectrochemical Methods",
+      "publication_year": 2014,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "22",
+      "volume": "118",
+      "page": "12061-12072",
+      "url": "https://doi.org/10.1021/jp503098q",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C4CP00254G",
+      "title": "A size dependent discontinuous decay rate for the exciton emission in ZnO quantum dots",
+      "publication_year": 2014,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Sviatlana Viarbitskaya",
+        "Emad Mukhtar",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Phys. Chem. Chem. Phys.",
+      "issue": "27",
+      "volume": "16",
+      "page": "13849-13857",
+      "url": "https://doi.org/10.1039/c4cp00254g",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C3TA14846G",
+      "title": "Optical quantum confinement in low dimensional hematite",
+      "publication_year": 2014,
+      "authors": [
+        "Mattis Fondell",
+        "T. Jesper Jacobsson",
+        "Mats Boman",
+        "Tomas Edvinsson"
+      ],
+      "journal": "J. Mater. Chem. A",
+      "issue": "10",
+      "volume": "2",
+      "page": "3352-3363",
+      "url": "https://doi.org/10.1039/c3ta14846g",
+      "tags":[
+        "Other"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C3EE42519C",
+      "title": "A monolithic device for solar water splitting based on series interconnected thin film absorbers reaching over 10% solar-to-hydrogen efficiency",
+      "publication_year": 2013,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Viktor Fjällström",
+        "Martin Sahlberg",
+        "Marika Edoff",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Energy and Environmental Science",
+      "issue": "12",
+      "volume": "6",
+      "page": "3676",
+      "url": "https://doi.org/10.1039/c3ee42519c",
+      "tags":[
+        "Hydrogen_production",
+        "Highlights"
+      ]
+    },
+
+    {
+      "doi": "10.1016/j.ijhydene.2013.09.094",
+      "title": "CuInxGa1−xSe2 as an efficient photocathode for solar hydrogen generation",
+      "publication_year": 2013,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Charlotte Platzer-Björkman",
+        "Marika Edoff",
+        "Tomas Edvinsson"
+      ],
+      "journal": "International Journal of Hydrogen Energy",
+      "issue": "35",
+      "volume": "38",
+      "page": "15027-15035",
+      "url": "https://doi.org/10.1016/j.ijhydene.2013.09.094",
+      "tags":[
+        "Hydrogen_production"
+      ]
+    },
+
+    {
+      "doi": "10.1021/jp311905t",
+      "title": "A Spectroelectrochemical Method for Locating Fluorescence Trap States in Nanoparticles and Quantum Dots",
+      "publication_year": 2013,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "10",
+      "volume": "117",
+      "page": "5497-5504",
+      "url": "https://doi.org/10.1021/jp311905t",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1039/C2RA21566G",
+      "title": "Antireflective coatings of ZnO quantum dots and their photocatalytic activity",
+      "publication_year": 2012,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "RSC Advances",
+      "issue": "27",
+      "volume": "2",
+      "page": "10298",
+      "url": "https://doi.org/10.1039/c2ra21566g",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1021/jp302220w",
+      "title": "Photoelectrochemical Determination of the Absolute Band Edge Positions as a Function of Particle Size for ZnO Quantum Dots",
+      "publication_year": 2012,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "29",
+      "volume": "116",
+      "page": "15692-15701",
+      "url": "https://doi.org/10.1021/jp302220w",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1021/jp300985k",
+      "title": "Investigation of Vibrational Modes and Phonon Density of States in ZnO Quantum Dots",
+      "publication_year": 2012,
+      "authors": [
+        "David Raymand",
+        "T. Jesper Jacobsson",
+        "Kersti Hermansson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "The Journal of Physical Chemistry C",
+      "issue": "12",
+      "volume": "116",
+      "page": "6893-6901",
+      "url": "https://doi.org/10.1021/jp300985k",
+      "tags":[
+        "Quantum_dots"
+      ]
+    },
+
+    {
+      "doi": "10.1021/ic201327n",
+      "title": "Absorption and Fluorescence Spectroscopy of Growing ZnO Quantum Dots: Size and Band Gap Correlation and Evidence of Mobile Trap States",
+      "publication_year": 2011,
+      "authors": [
+        "T. Jesper Jacobsson",
+        "Tomas Edvinsson"
+      ],
+      "journal": "Inorganic Chemistry",
+      "issue": "19",
+      "volume": "50",
+      "page": "9578-9586",
+      "url": "https://doi.org/10.1021/ic201327n",
+      "tags":[
+        "Quantum_dots"
+       ]
+    }
+  ]
+}

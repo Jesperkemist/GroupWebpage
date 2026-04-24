@@ -1,0 +1,17 @@
+{
+  "name": "research-group-website",
+  "version": "1.0.0",
+  "description": "Research Group Website built with Eleventy",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
