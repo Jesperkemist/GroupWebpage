@@ -17,6 +17,7 @@ module.exports = function(eleventyConfig) {
 
   // Return configuration
   return {
+    pathPrefix: "/GroupWebpage/",
     dir: {
       input: "src",
       output: "_site",

@@ -15,7 +15,7 @@ permalink: /{{ page.fileSlug }}/
         {% include "research/AI_for_material_science.md" %}
     </div>
     <div>
-        <img src="/assets/AI_ladder.png" alt="AI_ladder" style="height: 500px; width: auto; margin-top: 2rem;">
+        <img src="{{ '/assets/AI_ladder.png' | url }}" alt="AI_ladder" style="height: 500px; width: auto; margin-top: 2rem;">
     </div>
 </div>
 
@@ -24,7 +24,7 @@ permalink: /{{ page.fileSlug }}/
         {% include "research/research_automation.md" %}
     </div>
     <div>
-        <img src="/assets/Robot_round.png" alt="Robot" style="height: 400px; width: auto; margin-top: 4rem;">
+        <img src="{{ '/assets/Robot_round.png' | url }}" alt="Robot" style="height: 400px; width: auto; margin-top: 4rem;">
     </div>
 </div>
 
@@ -33,7 +33,7 @@ permalink: /{{ page.fileSlug }}/
         {% include "research/FAIR_research_data.md" %}
     </div>
     <div>
-        <img src="/assets/FAIR_data.png" alt="Robot" style="height: 300px; width: auto; margin-top: 4rem;">
+        <img src="{{ '/assets/FAIR_data.png' | url }}" alt="Robot" style="height: 300px; width: auto; margin-top: 4rem;">
     </div>
 </div>
 
@@ -42,7 +42,7 @@ permalink: /{{ page.fileSlug }}/
         {% include "research/perovskites.md" %}
     </div>
     <div>
-        <img src="/assets/Perovskite_structure.png" alt="Perovskite" style="height: 400px; width: auto; margin-top: 2rem;">
+        <img src="{{ '/assets/Perovskite_structure.png' | url }}" alt="Perovskite" style="height: 400px; width: auto; margin-top: 2rem;">
     </div>    
 </div>
 
