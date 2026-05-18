@@ -1,26 +1,6 @@
 {  
   "all":[
     {
-      "doi": "10.1002/aisy.202501149",
-      "title": "Bayesian Optimisation for the Experimental Sciences: A Practical Guide to Data‐Efficient Optimisation of Laboratory Workflows",
-      "publication_year": 2026,
-      "authors": [
-        "Chuan He",
-        "Martin Singull",
-        "T. Jesper Jacobsson"
-      ],
-      "journal": "Advanced Intelligent Systems",
-      "issue": null,
-      "volume": null,
-      "page": null,
-      "url": "https://doi.org/10.1002/aisy.202501149",
-      "tags": [
-        "AI_for_material_science",
-        "Review"
-      ]
-    },
-
-    {
       "doi": "10.1021/acsmaterialslett.6c00224",
       "title": "AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery",
       "publication_year": 2026,
@@ -31,10 +11,47 @@
       "issue": null,
       "volume": null,
       "page": null,
-      "url": "https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.6c00224",
+      "url": "AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery",
       "tags": [
         "AI_for_material_science",
         "Perspective"
+      ]
+    },
+
+    {
+      "doi": "10.48550/arXiv.2601.17807",
+      "title": "An autonomous living database for perovskite photovoltaics",
+      "publication_year": 2026,
+      "authors": [
+        "S. Shabih",
+        "H. Näsström",
+        "S. Patil",
+        "A. Askin",
+        "K. Dodd-Clements",
+        "J. H. H. Rossato",
+        "H. Gajardoni de Lemos",
+        "Y. Liu",
+        "F. Mathies",
+        "N. Maticiuc",
+        "R. Meitzner",
+        "E. Nandayapa",
+        "J. J. P. López",
+        "Y. Wang",
+        "L. Himanen",
+        "E. Unger",
+        "T. Jesper Jacobsson",
+        "J. A. Márquez",
+        "K. M. Jablonka."
+      ],
+      "journal": "ArXiv",
+      "issue": null,
+      "volume": null,
+      "page": null,
+      "url": "https://doi.org/10.48550/arXiv.2601.17807",
+      "tags": [
+        "AI_for_material_science",
+        "FAIR_data",
+        "Perovskites"
       ]
     },
 
