@@ -1,195 +1,40 @@
-{
-  "highlights":[
-    {
-      "doi": "10.1038/s41560-021-00941-3",
-      "title": "An open-access database and analysis tool for perovskite solar cells based on the FAIR data principles",
-      "publication_year": 2021,
-      "authors": [
-        "T. Jesper Jacobsson",
-        "Adam Hultqvist",
-        "Alberto García-Fernández",
-        "Aman Anand",
-        "Amran Al-Ashouri",
-        "Anders Hagfeldt",
-        "Andrea Crovetto",
-        "Antonio Abate",
-        "Antonio Gaetano Ricciardulli",
-        "Anuja Vijayan",
-        "Ashish Kulkarni",
-        "Assaf Y. Anderson",
-        "Barbara Primera Darwich",
-        "Bowen Yang",
-        "Brendan L. Coles",
-        "Carlo A. R. Perini",
-        "Carolin Rehermann",
-        "Daniel Ramirez",
-        "David Fairen-Jimenez",
-        "Diego Di Girolamo",
-        "Donglin Jia",
-        "Elena Avila",
-        "Emilio J. Juarez-Perez",
-        "Fanny Baumann",
-        "Florian Mathies",
-        "G. S. Anaya González",
-        "Gerrit Boschloo",
-        "Giuseppe Nasti",
-        "Gopinath Paramasivam",
-        "Guillermo Martínez-Denegri",
-        "Hampus Näsström",
-        "Hannes Michaels",
-        "Hans Köbler",
-        "Hua Wu",
-        "Iacopo Benesperi",
-        "M. Ibrahim Dar",
-        "Ilknur Bayrak Pehlivan",
-        "Isaac E. Gould",
-        "Jacob N. Vagott",
-        "Janardan Dagar",
-        "Jeff Kettle",
-        "Jie Yang",
-        "Jinzhao Li",
-        "Joel A. Smith",
-        "Jorge Pascual",
-        "Jose J. Jerónimo-Rendón",
-        "Juan Felipe Montoya",
-        "Juan-Pablo Correa-Baena",
-        "Junming Qiu",
-        "Junxin Wang",
-        "Kári Sveinbjörnsson",
-        "Katrin Hirselandt",
-        "Krishanu Dey",
-        "Kyle Frohna",
-        "Lena Mathies",
-        "Luigi A. Castriotta",
-        "Mahmoud. H. Aldamasy",
-        "Manuel Vasquez-Montoya",
-        "Marco A. Ruiz-Preciado",
-        "Marion A. Flatken",
-        "Mark V. Khenkin",
-        "Max Grischek",
-        "Mayank Kedia",
-        "Michael Saliba",
-        "Miguel Anaya",
-        "Misha Veldhoen",
-        "Neha Arora",
-        "Oleksandra Shargaieva",
-        "Oliver Maus",
-        "Onkar S. Game",
-        "Ori Yudilevich",
-        "Paul Fassl",
-        "Qisen Zhou",
-        "Rafael Betancur",
-        "Rahim Munir",
-        "Rahul Patidar",
-        "Samuel D. Stranks",
-        "Shahidul Alam",
-        "Shaoni Kar",
-        "Thomas Unold",
-        "Tobias Abzieher",
-        "Tomas Edvinsson",
-        "Tudur Wyn David",
-        "Ulrich W. Paetzold",
-        "Waqas Zia",
-        "Weifei Fu",
-        "Weiwei Zuo",
-        "Vincent R. F. Schröder",
-        "Wolfgang Tress",
-        "Xiaoliang Zhang",
-        "Yu-Hsien Chiang",
-        "Zafar Iqbal",
-        "Zhiqiang Xie",
-        "Eva Unger"
-      ],
-      "journal": "Nature Energy",
-      "issue": "1",
-      "volume": "7",
-      "page": "107-115",
-      "url": "https://doi.org/10.1038/s41560-021-00941-3",
-      "tags": [
-        "FAIR_data",
-        "Perovskites",
-        "Highlights"
-      ]
-    }
-  ],
-
-  "AI_for_material_science":[
-
-  ],
-
-  "Book_chapters":[
-    {
-      "doi": "10.1016/B978-0-12-814727-6.00008-6",
-      "title": "Temperature effects in lead halide perovskites",
-      "publication_year": 2020,
-      "authors": [
-        "T. Jesper Jacobsson"
-      ],
-      "journal": "Characterization Techniques for Perovskite Solar Cell Materials",
-      "issue": null,
-      "volume": null,
-      "page": "181-196",
-      "url": "https://doi.org/10.1016/b978-0-12-814727-6.00008-6"
-    }
-  ],
-
-  "FAIR_data":[
-
-  ],
-
-  "Perovskites":[
-
-  ],
-
-  "Perspectives":[
-
-  ],
-
-  "ZnO":[
-
-  ],
-
-  "hydrogen":[
-
-  ],
-
-
-  
+{  
   "all":[
     {
-      "doi": "10.48550/arXiv.2601.17807",
-      "title": "An autonomous living database for perovskite photovoltaics",
+      "doi": "10.1002/aisy.202501149",
+      "title": "Bayesian Optimisation for the Experimental Sciences: A Practical Guide to Data‐Efficient Optimisation of Laboratory Workflows",
       "publication_year": 2026,
       "authors": [
-        "S. Shabih",
-        "H. Näsström",
-        "S. Patil",
-        "A. Askin",
-        "K. Dodd-Clements",
-        "J. H. H. Rossato",
-        "H. Gajardoni de Lemos",
-        "Y. Liu",
-        "F. Mathies",
-        "N. Maticiuc",
-        "R. Meitzner",
-        "E. Nandayapa",
-        "J. J. P. López",
-        "Y. Wang",
-        "L. Himanen",
-        "E. Unger",
-        "T. Jesper Jacobsson",
-        "J. A. Márquez",
-        "K. M. Jablonka."
+        "Chuan He",
+        "Martin Singull",
+        "T. Jesper Jacobsson"
       ],
-      "journal": "ArXiv",
+      "journal": "Advanced Intelligent Systems",
       "issue": null,
       "volume": null,
       "page": null,
-      "url": "https://doi.org/10.48550/arXiv.2601.17807",
+      "url": "https://doi.org/10.1002/aisy.202501149",
       "tags": [
         "AI_for_material_science",
-        "FAIR_data",
-        "Perovskites"
+        "Review"
+      ]
+    },
+
+    {
+      "doi": "10.1021/acsmaterialslett.6c00224",
+      "title": "AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery",
+      "publication_year": 2026,
+      "authors": [
+        "T. Jesper Jacobsson"
+      ],
+      "journal": "ACS Materials Letters",
+      "issue": null,
+      "volume": null,
+      "page": null,
+      "url": "https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.6c00224",
+      "tags": [
+        "AI_for_material_science",
+        "Perspective"
       ]
     },
 
