@@ -11,7 +11,7 @@
       "issue": null,
       "volume": null,
       "page": null,
-      "url": "AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery",
+      "url": "https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224",
       "tags": [
         "AI_for_material_science",
         "Perspective"
@@ -348,7 +348,7 @@
       "url": "https://doi.org/10.1039/d3ta05966a",
       "tags":[
         "Perovskites",
-        "AI for material science"
+        "AI_for_material_science"
       ]
     },
 
@@ -371,8 +371,7 @@
       "page": null,
       "url": "https://doi.org/10.1002/adma.202309351",
       "tags":[
-        "AI_for_material_science",
-        "Highlights"
+        "AI_for_material_science"
       ]
     },
 
